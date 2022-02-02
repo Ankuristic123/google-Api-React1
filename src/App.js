@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Google Maps App</h1>
       <GoogleMap />
-      <GoogleMap API/>
+      {/* <GoogleMap API/> */}
     </div>
   );
 }
